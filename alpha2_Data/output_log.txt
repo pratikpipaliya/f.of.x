@@ -1,0 +1,67 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.9065
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.425291 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.881741 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.350017 ms (FindLiveObjects: 0.030206 ms CreateObjectMapping: 0.020389 ms MarkObjects: 0.260908 ms  DeleteObjects: 0.037758 ms)
+
+Platform assembly: C:\Users\Rimal Parikh\Desktop\alpha2_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.858452 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 364.
+Total: 10.033831 ms (FindLiveObjects: 0.110253 ms CreateObjectMapping: 0.149144 ms MarkObjects: 1.327951 ms  DeleteObjects: 8.444216 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.349639 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.252223 ms (FindLiveObjects: 0.019634 ms CreateObjectMapping: 0.014348 ms MarkObjects: 0.194454 ms  DeleteObjects: 0.023032 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.431031 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 364.
+Total: 8.916192 ms (FindLiveObjects: 0.092129 ms CreateObjectMapping: 0.080424 ms MarkObjects: 1.315113 ms  DeleteObjects: 7.424748 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.338312 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.436483 ms (FindLiveObjects: 0.032849 ms CreateObjectMapping: 0.028318 ms MarkObjects: 0.332648 ms  DeleteObjects: 0.041156 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.439337 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 364.
+Total: 8.728534 ms (FindLiveObjects: 0.120070 ms CreateObjectMapping: 0.081935 ms MarkObjects: 1.515609 ms  DeleteObjects: 7.006766 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: e4 -> priority: 1 
+  Thread -> id: 4e0 -> priority: 1 
